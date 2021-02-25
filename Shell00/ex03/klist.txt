@@ -1,0 +1,5 @@
+Credentials cache: API:F647EC4E-37BB-492B-AF87-09A91E41B34B
+        Principal: hde-bels@42.FR
+
+  Issued                Expires               Principal
+Feb  1 11:41:15 2021  Feb  8 11:41:15 2021  krbtgt/42.FR@42.FR
